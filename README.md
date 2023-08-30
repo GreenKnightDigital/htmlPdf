@@ -14,7 +14,7 @@ This is a simple Python script that converts an HTML file to a PDF using the pdf
 
 2. Open a terminal or command prompt.
 
-3. 'pip3 install -r requirements.txt'
+3. `pip3 install -r requirements.txt`
 
 4. Install wkhtmltopdf tool from https://wkhtmltopdf.org/downloads.html for your system. You will need to modify line 18 of htmlPdf.py to fit your system needs. The default is set for Linux.
 
